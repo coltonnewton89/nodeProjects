@@ -41,4 +41,4 @@ function FindIntersection(strArr) { 
     }
        
     // keep this function call here 
-    console.log(FindIntersection(['1, 2, 4, 8, 13', '1, 3, 4, 9, 13']));
+    FindIntersection(['1, 2, 4, 8, 13', '1, 3, 4, 9, 13']);
